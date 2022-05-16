@@ -32,4 +32,4 @@ We can customize the initial data of these variables to test the algorithm under
 
 ## How To Execute
 
-Run the program throw "index.html"
+Run "index.html"
