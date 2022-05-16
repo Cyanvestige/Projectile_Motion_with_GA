@@ -1,0 +1,28 @@
+html {
+  overflow: hidden;
+}
+
+.start-game-window {
+  width: 720px;
+  height: 1280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h2 {
+  margin-top: 150px;
+}
+
+.inputDiv {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+  align-items: center;
+}
+
+label {
+  margin-right: 100px;
+  width: 200px;
+}
