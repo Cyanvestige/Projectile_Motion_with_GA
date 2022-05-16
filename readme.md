@@ -2,7 +2,7 @@
 
 ## Reference
 
-Credit to [Daniel Shiffman](https://natureofcode.com/book/chapter-9-the-evolution-of-code/). This program is highly refer to his work!
+Credit to [Daniel Shiffman](https://natureofcode.com/book/chapter-9-the-evolution-of-code/). This project refers to his great work!
 
 ## Introduction
 
